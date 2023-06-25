@@ -1,0 +1,3 @@
+{
+  "contacts_phrase_key": "You can find an email to contact us on the  <a routerLink=\"/contacts\">contacts page</a>."
+}
